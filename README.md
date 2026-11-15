@@ -11,9 +11,6 @@ Java Swing and MySQL based Food Ordering System
 ### 3. Admin Dashboard
 ![Admin Dashboard](<Screenshot 2026-10-06 201826.png>)
 
-### 4. Staff Dashboard
-![Staff Dashboard](<Screenshot 2026-10-06 201853.png>)
-
 ### 5. View Food
 ![View Food](<Screenshot 2026-10-06 211808.png>)
 
@@ -32,8 +29,7 @@ Java Swing and MySQL based Food Ordering System
 ### 10. Order Confirmation
 ![Order Confirmation](<Screenshot 2026-10-06 215753.png>)
 
-### 11. Bill Preview
+### 11. generated Bill
 ![Bill Preview](<Screenshot 2026-10-06 215826.png>)
 
-### 12. Generated Bill
-![Generated Bill](<Screenshot 2026-10-06 220402.png>)
+
